@@ -16,7 +16,7 @@
 155,Jaime Garcia,Atl,P,Big Sexy,8137,http://www.fangraphs.com/statss.aspx?playerid=8137&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__40']/td[19],Starter
 160,James Paxton,Sea,P,Big Sexy,11828,http://www.fangraphs.com/statss.aspx?playerid=11828&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[19]",Starter
 168,Jay Bruce,NYM,OF,Big Sexy,9892,http://www.fangraphs.com/statss.aspx?playerid=9892&position=OF,//*[@id='SeasonStats1_dgSeason11_ctl00__35']/td[21],Starter
-175,Jeurys Familia,NYM,P,Big Sexy,5114,http://www.fangraphs.com/statss.aspx?playerid=5114&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__16']/td[19],Bench
+175,Jeurys Familia,NYM,P,Big Sexy,5114,http://www.fangraphs.com/statss.aspx?playerid=5114&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Bench
 181,Joc Pederson,LAD,OF,Big Sexy,11899,http://www.fangraphs.com/statss.aspx?playerid=11899&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[21]",Starter
 218,Justin Turner,LAD,3B ,Big Sexy,5235,http://www.fangraphs.com/statss.aspx?playerid=5235&position=3B,//*[@id='SeasonStats1_dgSeason11_ctl00__41']/td[21],Starter
 242,Luis Severino,NYY,P,Big Sexy,15890,http://www.fangraphs.com/statss.aspx?playerid=15890&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[19]",Starter
@@ -43,14 +43,14 @@
 70,Chris Archer,TB ,P,Billy Heywood,6345,http://www.fangraphs.com/statss.aspx?playerid=6345&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Starter
 82,Curtis Granderson,NYM,OF,Billy Heywood,4747,http://www.fangraphs.com/statss.aspx?playerid=4747&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__43""]/td[21]",Starter
 105,Drew Smyly,Sea,P,Billy Heywood,11760,http://www.fangraphs.com/statss.aspx?playerid=11760&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[19]",Bench
-169,Jean Segura,Sea,SS,Billy Heywood,5933,http://www.fangraphs.com/statss.aspx?playerid=5933&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[21]",Starter
+169,Jean Segura,Sea,SS,Billy Heywood,5933,http://www.fangraphs.com/statss.aspx?playerid=5933&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
 178,Jimmy Nelson,Mil,P,Billy Heywood,10547,http://www.fangraphs.com/statss.aspx?playerid=10547&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[19]",Starter
 202,Jose De Leon,TB ,P,Billy Heywood,15463,http://www.fangraphs.com/statss.aspx?playerid=15463&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__7""]/td[19]",Starter
 216,Jung Ho Kang,Pit,3B ,Billy Heywood,17182,http://www.fangraphs.com/statss.aspx?playerid=17182&position=3B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__3""]/td[21]",Bench
 220,Justin Verlander,Det,P,Billy Heywood,8700,http://www.fangraphs.com/statss.aspx?playerid=8700&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__35""]/td[19]",Starter
 223,Kendall Graveman,Oak,P,Billy Heywood,15514,http://www.fangraphs.com/statss.aspx?playerid=15514&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
 229,Kevin Pillar,Tor,OF,Billy Heywood,12434,http://www.fangraphs.com/statss.aspx?playerid=12434&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[21]",Starter
-254,Martin Prado,Mia,3B,Billy Heywood,3312,http://www.fangraphs.com/statss.aspx?playerid=3312&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__31""]/td[21]",Starter
+254,Martin Prado,Mia,3B,Billy Heywood,3312,http://www.fangraphs.com/statss.aspx?playerid=3312&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__39""]/td[21]",Starter
 256,Matt Andriese,TB ,P,Billy Heywood,12022,http://www.fangraphs.com/statss.aspx?playerid=12022&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__15""]/td[19]",Starter
 262,Matt Shoemaker,LAA,P,Billy Heywood,4776,http://www.fangraphs.com/statss.aspx?playerid=4776&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[19]",Starter
 269,Michael Conforto,NYM,OF,Billy Heywood,16376,http://www.fangraphs.com/statss.aspx?playerid=16376&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__14""]/td[21]",Starter
@@ -165,7 +165,7 @@
 158,Jake Odorizzi,TB ,P,Team Baumgardner,6397,http://www.fangraphs.com/statss.aspx?playerid=6397&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[19]",Starter
 188,Johnny Cueto,SF ,P,Team Baumgardner,6893,http://www.fangraphs.com/statss.aspx?playerid=6893&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__37""]/td[19]",Starter
 196,Jordy Mercer,Pit,SS,Team Baumgardner,6547,http://www.fangraphs.com/statss.aspx?playerid=6547&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
-203,Jose Peraza,Cin,SS,Team Baumgardner,13593,http://www.fangraphs.com/statss.aspx?playerid=13593&position=2B/SS/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
+203,Jose Peraza,Cin,SS,Team Baumgardner,13593,http://www.fangraphs.com/statss.aspx?playerid=13593&position=2B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
 238,Lance Lynn,StL,P,Team Baumgardner,2520,http://www.fangraphs.com/statss.aspx?playerid=2520&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Starter
 248,Marcell Ozuna,Mia,OF,Team Baumgardner,10324,http://www.fangraphs.com/statss.aspx?playerid=10324&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[21]",Starter
 257,Matt Bush,Tex,P,Team Baumgardner,1246,http://www.fangraphs.com/statss.aspx?playerid=1246&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__14""]/td[19]",Bench
@@ -200,14 +200,14 @@
 225,Kenta Maeda,LAD,P,Team Boyles,18498,http://www.fangraphs.com/statss.aspx?playerid=18498&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__8""]/td[19]",Starter
 230,Khris Davis,Oak,OF,Team Boyles,9112,http://www.fangraphs.com/statss.aspx?playerid=9112&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
 252,Mark Melancon,SF ,P,Team Boyles,4264,http://www.fangraphs.com/statss.aspx?playerid=4264&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__37""]/td[19]",Starter
-260,Matt Kemp,Atl,OF,Team Boyles,5631,http://www.fangraphs.com/statss.aspx?playerid=5631&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__39""]/td[21]",Starter
+260,Matt Kemp,Atl,OF,Team Boyles,5631,http://www.fangraphs.com/statss.aspx?playerid=5631&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__40""]/td[21]",Starter
 270,Michael Fulmer,Det,P,Team Boyles,13218,http://www.fangraphs.com/statss.aspx?playerid=13218&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
 293,Odubel Herrera,Phi,OF,Team Boyles,11476,http://www.fangraphs.com/statss.aspx?playerid=11476&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Bench
 298,Rich Hill,LAD,P,Team Boyles,4806,http://www.fangraphs.com/statss.aspx?playerid=4806&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__54""]/td[19]",Starter
 302,Roberto Osuna,Tor,P,Team Boyles,13764,http://www.fangraphs.com/statss.aspx?playerid=13764&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
 ,Seung Hwan Oh,StL,P,Team Boyles,,http://www.fangraphs.com/statss.aspx?playerid=18719&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__7""]/td[19]",Starter
 320,Stephen Piscotty,StL,OF,Team Boyles,13367,http://www.fangraphs.com/statss.aspx?playerid=13367&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__15""]/td[21]",Starter
-351,Willson Contreras,ChC,C,Team Boyles,11609,http://www.fangraphs.com/statss.aspx?playerid=11609&position=C/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[21]",Starter
+351,Willson Contreras,ChC,C,Team Boyles,11609,http://www.fangraphs.com/statss.aspx?playerid=11609&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[21]",Starter
 363,Zack Greinke,Ari,P,Team Boyles,1943,http://www.fangraphs.com/statss.aspx?playerid=1943&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__43""]/td[19]",Starter
 34,Brad Brach,Bal,P,Team Ellis,6627,http://www.fangraphs.com/statss.aspx?playerid=6627&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[19]",Bench
 47,Bryce Harper,Wsh,OF,Team Ellis,11579,http://www.fangraphs.com/statss.aspx?playerid=11579&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[21]",Starter
@@ -285,9 +285,9 @@
 ,Greg Bird,,1B,Tebowie Baysox,,http://www.fangraphs.com/statss.aspx?playerid=14131&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
 142,Hisashi Iwakuma,Sea,P,Tebowie Baysox,13048,http://www.fangraphs.com/statss.aspx?playerid=13048&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[19]",Starter
 145,Ian Desmond,Col,OF,Tebowie Baysox,6885,http://www.fangraphs.com/statss.aspx?playerid=6885&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
-152,Jackie Bradley Jr.,Bos,OF,Tebowie Baysox,12984,http://www.fangraphs.com/statss.aspx?playerid=12984&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[21]",Starter
-166,Jason Kipnis,Cle,2B,Tebowie Baysox,9776,http://www.fangraphs.com/statss.aspx?playerid=9776&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[21]",Starter
-185,Joe Ross,Wsh,P,Tebowie Baysox,12972,http://www.fangraphs.com/statss.aspx?playerid=12972&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__13""]/td[19]",Bench
+152,Jackie Bradley Jr.,Bos,OF,Tebowie Baysox,12984,http://www.fangraphs.com/statss.aspx?playerid=12984&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[21]",Starter
+166,Jason Kipnis,Cle,2B,Tebowie Baysox,9776,http://www.fangraphs.com/statss.aspx?playerid=9776&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[21]",Starter
+185,Joe Ross,Wsh,P,Tebowie Baysox,12972,http://www.fangraphs.com/statss.aspx?playerid=12972&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[19]",Bench
 195,Jordan Zimmermann,Det,P,Tebowie Baysox,4505,http://www.fangraphs.com/statss.aspx?playerid=4505&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__33""]/td[19]",Bench
 215,Julio Urias,LAD,P,Tebowie Baysox,14765,http://www.fangraphs.com/statss.aspx?playerid=14765&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__7""]/td[19]",Starter
 224,Kenley Jansen,LAD,P,Tebowie Baysox,3096,http://www.fangraphs.com/statss.aspx?playerid=3096&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter

@@ -2,25 +2,25 @@ library(XML)
 library(dplyr)
 
 #File with Player Fangraphs URL and xpath
-test <- read.csv("C:\\Users\\John\\Desktop\\R\\Baseball\\WAR_Input.csv")
+test <- read.csv("C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Input.csv")
 
 #Use merge statement if you just grab csv's with 2017 stats straight from FanGraphs 
 #Merge needed bc those datasets may not include all of our 360 players
 
 #Injured, Suspended, Minors
 
-#Big Sexy          -> DeSclafani, Rodon, Familia
-#War Tour          -> No one
+#Big Sexy          -> DeSclafani, Rodon
 #Doubles or Nothin -> Price, Giolito, Thornburg, Ramos
-#Billy Heywood     -> Beltre, A. Reyes, Smyly, De Leon, Kang, Prado, Kazmir, S. Gray
+#Billy Heywood     -> Beltre, A. Reyes, Smyly, De Leon, Kang, Kazmir, S. Gray
 #Bluff Bunters     -> No one
 #Rockford Peaches  -> Matz
 #Baumgardner       -> Capps, Tillman, Gregorius, M. Cabrera, T. Murphy
 #Boyles            -> No One
 #Ellis             -> McHugh, Dahl
 #Tierney           -> Mesoraco, J.D. Martinez, T. Ross
-#Tebowie Baysox    -> Desmond, Kipnis, J. Ross, Urias 
+#Tebowie Baysox    -> Desmond, Urias 
 #Natural           -> Berrios
+#War Tour          -> No one
 
 #Create empty list  
 war <- list()
@@ -44,13 +44,13 @@ colnames(war_final) <- c("Player", "Team", "WAR", "Status")
 
 #List players who haven't played a game in 2017
 
-void <- war_final$Player %in% c('Anthony DeSclafani', 'Carlos Rodon', 'Jeurys Familia', 'David Price',
+void <- war_final$Player %in% c('Anthony DeSclafani', 'Carlos Rodon', 'David Price',
                                 'Lucas Giolito', 'Tyler Thornburg', 'Wilson Ramos', 'Adrian Beltre',
-                                'Alex Reyes', 'Drew Smyly', 'Jose De Leon', 'Jung Ho Kang', 'Martin Prado',
-                                'Scott Kazmir', 'Sonny Gray', 'Steven Matz', 'Carter Capps', 'Chris Tillman',
+                                'Alex Reyes', 'Drew Smyly', 'Jose De Leon', 'Jung Ho Kang', 'Scott Kazmir', 
+                                'Sonny Gray', 'Steven Matz', 'Carter Capps', 'Chris Tillman',
                                 'Didi Gregorius', 'Mauricio Cabrera', 'Tom Murphy', 'Collin McHugh',
                                 'David Dahl', 'Devin Mesoraco', 'J.D. Martinez', 'Tyson Ross',
-                                'Ian Desmond', 'Jason Kipnis', 'Joe Ross', 'Julio Urias', 'Jose Berrios')
+                                'Ian Desmond', 'Julio Urias', 'Jose Berrios')
 #Set their WAR value to 0
 war_final$WAR[void] <- 0
 
@@ -64,12 +64,14 @@ for (i in 1:360) {
   }
 }
 
+
 #Sum by Team
 standings <- group_by(war_final, Team) %>%
-  summarize(war_sum = sum(WAR))
+  summarize(war_sum = sum(WAR)) 
   
 colnames(standings)[2] <- "Total WAR"
+ordered_stand <- standings[order(-standings$`Total WAR`),]
 
 
-write.csv(war_final, "C:\\Users\\John\\Desktop\\R\\Baseball\\WAR_Output.csv")
-write.csv(standings, "C:\\Users\\John\\Desktop\\R\\Baseball\\WAR_Standings.csv")
+write.csv(war_final, "C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Output.csv")
+write.csv(standings, "C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Standings.csv")
