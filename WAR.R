@@ -11,14 +11,14 @@ test <- read.csv("C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Input.csv")
 
 #Big Sexy          -> DeSclafani, Rodon
 #Doubles or Nothin -> Price, Giolito, Thornburg, Ramos
-#Billy Heywood     -> Beltre, A. Reyes, Smyly, De Leon, Kang, Kazmir, S. Gray
+#Billy Heywood     -> Beltre, A. Reyes, Smyly, De Leon, Kang, Kazmir
 #Bluff Bunters     -> No one
 #Rockford Peaches  -> Matz
-#Baumgardner       -> Capps, Tillman, Gregorius, M. Cabrera, T. Murphy
+#Baumgardner       -> Capps, Tillman, M. Cabrera, T. Murphy
 #Boyles            -> No One
 #Ellis             -> McHugh, Dahl
-#Tierney           -> Mesoraco, J.D. Martinez, T. Ross
-#Tebowie Baysox    -> Desmond, Urias 
+#Tierney           -> J.D. Martinez, T. Ross
+#Tebowie Baysox    -> No One
 #Natural           -> Berrios
 #War Tour          -> No one
 
@@ -47,10 +47,9 @@ colnames(war_final) <- c("Player", "Team", "WAR", "Status")
 void <- war_final$Player %in% c('Anthony DeSclafani', 'Carlos Rodon', 'David Price',
                                 'Lucas Giolito', 'Tyler Thornburg', 'Wilson Ramos', 'Adrian Beltre',
                                 'Alex Reyes', 'Drew Smyly', 'Jose De Leon', 'Jung Ho Kang', 'Scott Kazmir', 
-                                'Sonny Gray', 'Steven Matz', 'Carter Capps', 'Chris Tillman',
-                                'Didi Gregorius', 'Mauricio Cabrera', 'Tom Murphy', 'Collin McHugh',
-                                'David Dahl', 'Devin Mesoraco', 'J.D. Martinez', 'Tyson Ross',
-                                'Ian Desmond', 'Julio Urias', 'Jose Berrios')
+                                'Steven Matz', 'Carter Capps', 'Chris Tillman',
+                                'Mauricio Cabrera', 'Tom Murphy', 'Collin McHugh', 'David Dahl', 
+                                'J.D. Martinez', 'Tyson Ross', 'Jose Berrios')
 #Set their WAR value to 0
 war_final$WAR[void] <- 0
 
@@ -74,4 +73,4 @@ ordered_stand <- standings[order(-standings$`Total WAR`),]
 
 
 write.csv(war_final, "C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Output.csv")
-write.csv(standings, "C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Standings.csv")
+write.csv(ordered_stand, "C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Standings.csv")

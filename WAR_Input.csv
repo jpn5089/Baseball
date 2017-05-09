@@ -1,9 +1,9 @@
 ,Name,TEAM,POS,Team,playerid,url,xpath,Status
-16,Alex Cobb,TB ,P,Big Sexy,6562,http://www.fangraphs.com/statss.aspx?playerid=6562&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__27']/td[19],Starter
+16,Alex Cobb,TBÂ ,P,Big Sexy,6562,http://www.fangraphs.com/statss.aspx?playerid=6562&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__27']/td[19],Starter
 23,Andrew Miller,Cle,P,Big Sexy,6785,http://www.fangraphs.com/statss.aspx?playerid=6785&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__51""]/td[19]",Starter
 24,Anthony DeSclafani,Cin,P,Big Sexy,13050,http://www.fangraphs.com/statss.aspx?playerid=13050&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__12""]/td[19]",Bench
 29,Bartolo Colon,Atl,P,Big Sexy,375,http://www.fangraphs.com/statss.aspx?playerid=375&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__59""]/td[19]",Starter
-36,Brad Miller,TB ,SS,Big Sexy,12775,http://www.fangraphs.com/statss.aspx?playerid=12775&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
+36,Brad Miller,TBÂ ,SS,Big Sexy,12775,http://www.fangraphs.com/statss.aspx?playerid=12775&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
 60,Carlos Gonzalez,Col,OF,Big Sexy,7287,http://www.fangraphs.com/statss.aspx?playerid=7287&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__33""]/td[21]",Starter
 62,Carlos Martinez,StL,P,Big Sexy,11682,http://www.fangraphs.com/statss.aspx?playerid=11682&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[19]",Starter
 63,Carlos Rodon,CWS,P,Big Sexy,16137,http://www.fangraphs.com/statss.aspx?playerid=16137&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__7""]/td[19]",Starter
@@ -17,18 +17,18 @@
 160,James Paxton,Sea,P,Big Sexy,11828,http://www.fangraphs.com/statss.aspx?playerid=11828&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[19]",Starter
 168,Jay Bruce,NYM,OF,Big Sexy,9892,http://www.fangraphs.com/statss.aspx?playerid=9892&position=OF,//*[@id='SeasonStats1_dgSeason11_ctl00__35']/td[21],Starter
 175,Jeurys Familia,NYM,P,Big Sexy,5114,http://www.fangraphs.com/statss.aspx?playerid=5114&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Bench
-181,Joc Pederson,LAD,OF,Big Sexy,11899,http://www.fangraphs.com/statss.aspx?playerid=11899&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[21]",Starter
-218,Justin Turner,LAD,3B ,Big Sexy,5235,http://www.fangraphs.com/statss.aspx?playerid=5235&position=3B,//*[@id='SeasonStats1_dgSeason11_ctl00__41']/td[21],Starter
+181,Joc Pederson,LAD,OF,Big Sexy,11899,http://www.fangraphs.com/statss.aspx?playerid=11899&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[21]",Starter
+218,Justin Turner,LAD,3BÂ ,Big Sexy,5235,http://www.fangraphs.com/statss.aspx?playerid=5235&position=3B,//*[@id='SeasonStats1_dgSeason11_ctl00__41']/td[21],Starter
 242,Luis Severino,NYY,P,Big Sexy,15890,http://www.fangraphs.com/statss.aspx?playerid=15890&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[19]",Starter
 267,Melky Cabrera,CWS,OF,Big Sexy,4022,http://www.fangraphs.com/statss.aspx?playerid=4022&position=OF,//*[@id='SeasonStats1_dgSeason11_ctl00__38']/td[21],Starter
-291,Nolan Arenado,Col,3B ,Big Sexy,9777,http://www.fangraphs.com/statss.aspx?playerid=9777&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[21]",Starter
+291,Nolan Arenado,Col,3BÂ ,Big Sexy,9777,http://www.fangraphs.com/statss.aspx?playerid=9777&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[21]",Starter
 322,Stephen Vogt,Oak,C,Big Sexy,5000,http://www.fangraphs.com/statss.aspx?playerid=5000&position=C,//*[@id='SeasonStats1_dgSeason11_ctl00__26']/td[21],Starter
 328,Tim Anderson,CWS,SS,Big Sexy,15172,http://www.fangraphs.com/statss.aspx?playerid=15172&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__13""]/td[21]",Starter
 334,Trea Turner,Wsh,2B/OF,Big Sexy,16252,http://www.fangraphs.com/statss.aspx?playerid=16252&position=2B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[21]",Starter
 346,Wade Davis,ChC,P,Big Sexy,7441,http://www.fangraphs.com/statss.aspx?playerid=7441&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__34""]/td[19]",Bench
 348,Welington Castillo,Bal,C,Big Sexy,3256,http://www.fangraphs.com/statss.aspx?playerid=3256&position=C,//*[@id='SeasonStats1_dgSeason11_ctl00__36']/td[21],Starter
 356,Yasiel Puig,LAD,OF,Big Sexy,14225,http://www.fangraphs.com/statss.aspx?playerid=14225&position=OF,//*[@id='SeasonStats1_dgSeason11_ctl00__23']/td[21],Starter
-361,Zach Britton,Bal,P,Big Sexy,3240,http://www.fangraphs.com/statss.aspx?playerid=3240&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__29']/td[19],Starter
+361,Zach Britton,Bal,P,Big Sexy,3240,http://www.fangraphs.com/statss.aspx?playerid=3240&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__30""]/td[19]",Starter
 1,A.J. Pollock,Ari,OF,Billy Heywood,9256,http://www.fangraphs.com/statss.aspx?playerid=9256&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
 2,Aaron Nola,Phi,P,Billy Heywood,16149,http://www.fangraphs.com/statss.aspx?playerid=16149&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__13""]/td[19]",Starter
 11,Adrian Beltre,Tex,3B,Billy Heywood,639,http://www.fangraphs.com/statss.aspx?playerid=639&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__41""]/td[21]",Starter
@@ -40,28 +40,28 @@
 54,Carlos Carrasco,Cle,P,Billy Heywood,6632,http://www.fangraphs.com/statss.aspx?playerid=6632&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__30""]/td[19]",Starter
 55,Carlos Correa,Hou,SS,Billy Heywood,14162,http://www.fangraphs.com/statss.aspx?playerid=14162&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[21]",Starter
 69,Charlie Morton,Hou,P,Billy Heywood,4676,http://www.fangraphs.com/statss.aspx?playerid=4676&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[19]",Starter
-70,Chris Archer,TB ,P,Billy Heywood,6345,http://www.fangraphs.com/statss.aspx?playerid=6345&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Starter
+70,Chris Archer,TBÂ ,P,Billy Heywood,6345,http://www.fangraphs.com/statss.aspx?playerid=6345&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Starter
 82,Curtis Granderson,NYM,OF,Billy Heywood,4747,http://www.fangraphs.com/statss.aspx?playerid=4747&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__43""]/td[21]",Starter
 105,Drew Smyly,Sea,P,Billy Heywood,11760,http://www.fangraphs.com/statss.aspx?playerid=11760&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[19]",Bench
 169,Jean Segura,Sea,SS,Billy Heywood,5933,http://www.fangraphs.com/statss.aspx?playerid=5933&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
 178,Jimmy Nelson,Mil,P,Billy Heywood,10547,http://www.fangraphs.com/statss.aspx?playerid=10547&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[19]",Starter
-202,Jose De Leon,TB ,P,Billy Heywood,15463,http://www.fangraphs.com/statss.aspx?playerid=15463&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__7""]/td[19]",Starter
-216,Jung Ho Kang,Pit,3B ,Billy Heywood,17182,http://www.fangraphs.com/statss.aspx?playerid=17182&position=3B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__3""]/td[21]",Bench
+202,Jose De Leon,TBÂ ,P,Billy Heywood,15463,http://www.fangraphs.com/statss.aspx?playerid=15463&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__7""]/td[19]",Starter
+216,Jung Ho Kang,Pit,3BÂ ,Billy Heywood,17182,http://www.fangraphs.com/statss.aspx?playerid=17182&position=3B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__3""]/td[21]",Bench
 220,Justin Verlander,Det,P,Billy Heywood,8700,http://www.fangraphs.com/statss.aspx?playerid=8700&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__35""]/td[19]",Starter
 223,Kendall Graveman,Oak,P,Billy Heywood,15514,http://www.fangraphs.com/statss.aspx?playerid=15514&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
 229,Kevin Pillar,Tor,OF,Billy Heywood,12434,http://www.fangraphs.com/statss.aspx?playerid=12434&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[21]",Starter
 254,Martin Prado,Mia,3B,Billy Heywood,3312,http://www.fangraphs.com/statss.aspx?playerid=3312&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__39""]/td[21]",Starter
-256,Matt Andriese,TB ,P,Billy Heywood,12022,http://www.fangraphs.com/statss.aspx?playerid=12022&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__15""]/td[19]",Starter
+256,Matt Andriese,TBÂ ,P,Billy Heywood,12022,http://www.fangraphs.com/statss.aspx?playerid=12022&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__15""]/td[19]",Starter
 262,Matt Shoemaker,LAA,P,Billy Heywood,4776,http://www.fangraphs.com/statss.aspx?playerid=4776&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[19]",Starter
 269,Michael Conforto,NYM,OF,Billy Heywood,16376,http://www.fangraphs.com/statss.aspx?playerid=16376&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__14""]/td[21]",Starter
 299,Rick Porcello,Bos,P,Billy Heywood,2717,http://www.fangraphs.com/statss.aspx?playerid=2717&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter
-310,Salvador Perez,KC ,C,Billy Heywood,7304,http://www.fangraphs.com/statss.aspx?playerid=7304&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[21]",Starter
+310,Salvador Perez,KCÂ ,C,Billy Heywood,7304,http://www.fangraphs.com/statss.aspx?playerid=7304&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[21]",Starter
 313,Scott Kazmir,LAD,P,Billy Heywood,4897,http://www.fangraphs.com/statss.aspx?playerid=4897&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[19]",Bench
-317,Sonny Gray,Oak,P,Billy Heywood,12768,http://www.fangraphs.com/statss.aspx?playerid=12768&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__12""]/td[19]",Starter
+317,Sonny Gray,Oak,P,Billy Heywood,12768,http://www.fangraphs.com/statss.aspx?playerid=12768&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[19]",Starter
 323,Steve Pearce,Tor,1B,Billy Heywood,9957,http://www.fangraphs.com/statss.aspx?playerid=9957&position=1B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__49""]/td[21]",Starter
 4,Adam Duvall,Cin,OF,Bluff Bunters,10950,http://www.fangraphs.com/statss.aspx?playerid=10950&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
-28,Austin Hedges,SD ,C,Bluff Bunters,12976,http://www.fangraphs.com/statss.aspx?playerid=12976&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[21]",Starter
-35,Brad Hand,SD ,P,Bluff Bunters,9111,http://www.fangraphs.com/statss.aspx?playerid=9111&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Starter
+28,Austin Hedges,SDÂ ,C,Bluff Bunters,12976,http://www.fangraphs.com/statss.aspx?playerid=12976&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[21]",Starter
+35,Brad Hand,SDÂ ,P,Bluff Bunters,9111,http://www.fangraphs.com/statss.aspx?playerid=9111&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Starter
 42,Brandon Phillips,Atl,2B,Bluff Bunters,791,http://www.fangraphs.com/statss.aspx?playerid=791&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__40""]/td[21]",Starter
 46,Bryan Shaw,Cle,P,Bluff Bunters,8110,http://www.fangraphs.com/statss.aspx?playerid=8110&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[19]",Bench
 364,Carl Edwards Jr.,,P,Bluff Bunters,,http://www.fangraphs.com/statss.aspx?playerid=13607&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[19]",Bench
@@ -71,25 +71,25 @@
 92,David Peralta,Ari,OF,Bluff Bunters,2136,http://www.fangraphs.com/statss.aspx?playerid=2136&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[21]",Starter
 103,Domingo Santana,Mil,OF,Bluff Bunters,10348,http://www.fangraphs.com/statss.aspx?playerid=10348&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[21]",Starter
 119,Eugenio Suarez,Cin,3B,Bluff Bunters,12552,http://www.fangraphs.com/statss.aspx?playerid=12552&position=3B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[21]",Starter
-143,Hunter Pence,SF ,OF,Bluff Bunters,8252,http://www.fangraphs.com/statss.aspx?playerid=8252&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__37""]/td[21]",Starter
-144,Hunter Strickland,SF ,P,Bluff Bunters,7836,http://www.fangraphs.com/statss.aspx?playerid=7836&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[19]",Starter
+143,Hunter Pence,SFÂ ,OF,Bluff Bunters,8252,http://www.fangraphs.com/statss.aspx?playerid=8252&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__37""]/td[21]",Starter
+144,Hunter Strickland,SFÂ ,P,Bluff Bunters,7836,http://www.fangraphs.com/statss.aspx?playerid=7836&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[19]",Starter
 156,Jake Arrieta,ChC,P,Bluff Bunters,4153,http://www.fangraphs.com/statss.aspx?playerid=4153&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__32""]/td[19]",Starter
 163,Jason Castro,Min,C,Bluff Bunters,8722,http://www.fangraphs.com/statss.aspx?playerid=8722&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[21]",Starter
-179,Joakim Soria,KC ,P,Bluff Bunters,6941,http://www.fangraphs.com/statss.aspx?playerid=6941&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__32""]/td[19]",Starter
+179,Joakim Soria,KCÂ ,P,Bluff Bunters,6941,http://www.fangraphs.com/statss.aspx?playerid=6941&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__32""]/td[19]",Starter
 182,Joe Blanton,Wsh,P,Bluff Bunters,4849,http://www.fangraphs.com/statss.aspx?playerid=4849&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__45""]/td[19]",Bench
 193,Jonathan Schoop,Bal,2B,Bluff Bunters,11265,http://www.fangraphs.com/statss.aspx?playerid=11265&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Bench
 198,Jose Altuve,Hou,2B,Bluff Bunters,5417,http://www.fangraphs.com/statss.aspx?playerid=5417&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[21]",Starter
 208,Jose Reyes,NYM,3B,Bluff Bunters,1736,http://www.fangraphs.com/statss.aspx?playerid=1736&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__47""]/td[21]",Bench
 213,Josh Tomlin,Cle,P,Bluff Bunters,9388,http://www.fangraphs.com/statss.aspx?playerid=9388&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__35""]/td[19]",Starter
 226,Keon Broxton,Mil,OF,Bluff Bunters,9253,http://www.fangraphs.com/statss.aspx?playerid=9253&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[21]",Starter
-244,Madison Bumgarner,SF ,P,Bluff Bunters,5524,http://www.fangraphs.com/statss.aspx?playerid=5524&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter
+244,Madison Bumgarner,SFÂ ,P,Bluff Bunters,5524,http://www.fangraphs.com/statss.aspx?playerid=5524&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter
 250,Marcus Semien,Oak,SS,Bluff Bunters,12533,http://www.fangraphs.com/statss.aspx?playerid=12533&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
 266,Max Scherzer,Wsh,P,Bluff Bunters,3137,http://www.fangraphs.com/statss.aspx?playerid=3137&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__33""]/td[19]",Starter
 307,Ryan Dull,Oak,P,Bluff Bunters,13974,http://www.fangraphs.com/statss.aspx?playerid=13974&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[19]",Starter
 342,Tyler Skaggs,LAA,P,Bluff Bunters,10190,http://www.fangraphs.com/statss.aspx?playerid=10190&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[19]",Starter
-349,Wil Myers,SD ,1B,Bluff Bunters,10047,http://www.fangraphs.com/statss.aspx?playerid=10047&position=1B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[21]",Starter
+349,Wil Myers,SDÂ ,1B,Bluff Bunters,10047,http://www.fangraphs.com/statss.aspx?playerid=10047&position=1B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[21]",Starter
 350,Will Harris,Hou,P,Bluff Bunters,3192,http://www.fangraphs.com/statss.aspx?playerid=3192&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[19]",Starter
-18,Alex Gordon,KC ,OF,Doubles or Nothin,5209,http://www.fangraphs.com/statss.aspx?playerid=5209&position=3B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[21]",Starter
+18,Alex Gordon,KCÂ ,OF,Doubles or Nothin,5209,http://www.fangraphs.com/statss.aspx?playerid=5209&position=3B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[21]",Starter
 25,Anthony Rendon,Wsh,3B,Doubles or Nothin,12861,http://www.fangraphs.com/statss.aspx?playerid=12861&position=2B/3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
 40,Brandon Kintzler,Min,P,Doubles or Nothin,9939,http://www.fangraphs.com/statss.aspx?playerid=9939&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__30""]/td[19]",Bench
 80,Corey Seager,LAD,SS,Doubles or Nothin,13624,http://www.fangraphs.com/statss.aspx?playerid=13624&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
@@ -102,13 +102,13 @@
 183,Joe Kelly,Bos,P,Doubles or Nothin,9761,http://www.fangraphs.com/statss.aspx?playerid=9761&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Starter
 186,Joey Votto,Cin,1B,Doubles or Nothin,4314,http://www.fangraphs.com/statss.aspx?playerid=4314&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__35""]/td[21]",Starter
 217,Junior Guerra,Mil,P,Doubles or Nothin,5702,http://www.fangraphs.com/statss.aspx?playerid=5702&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[19]",Starter
-228,Kevin Kiermaier,TB ,OF,Doubles or Nothin,11038,http://www.fangraphs.com/statss.aspx?playerid=11038&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[21]",Starter
+228,Kevin Kiermaier,TBÂ ,OF,Doubles or Nothin,11038,http://www.fangraphs.com/statss.aspx?playerid=11038&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[21]",Starter
 231,Koda Glover,Wsh,P,Doubles or Nothin,17695,http://www.fangraphs.com/statss.aspx?playerid=17695&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__11""]/td[19]",Bench
 241,Lucas Giolito,CWS,P,Doubles or Nothin,15474,http://www.fangraphs.com/statss.aspx?playerid=15474&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__9""]/td[19]",Starter
 243,Luke Gregerson,Hou,P,Doubles or Nothin,4090,http://www.fangraphs.com/statss.aspx?playerid=4090&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter
 265,Max Kepler,Min,OF,Doubles or Nothin,12144,http://www.fangraphs.com/statss.aspx?playerid=12144&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[21]",Bench
 273,Michael Wacha,StL,P,Doubles or Nothin,14078,http://www.fangraphs.com/statss.aspx?playerid=14078&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[19]",Starter
-280,Mike Moustakas,KC ,3B,Doubles or Nothin,4892,http://www.fangraphs.com/statss.aspx?playerid=4892&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
+280,Mike Moustakas,KCÂ ,3B,Doubles or Nothin,4892,http://www.fangraphs.com/statss.aspx?playerid=4892&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
 282,Mike Trout,LAA,OF,Doubles or Nothin,10155,http://www.fangraphs.com/statss.aspx?playerid=10155&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[21]",Starter
 286,Nate Jones,CWS,P,Doubles or Nothin,4696,http://www.fangraphs.com/statss.aspx?playerid=4696&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[19]",Starter
 301,Robert Gsellman,NYM,P,Doubles or Nothin,13696,http://www.fangraphs.com/statss.aspx?playerid=13696&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
@@ -118,7 +118,7 @@
 339,Tyler Anderson,Col,P,Doubles or Nothin,12880,http://www.fangraphs.com/statss.aspx?playerid=12880&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__13""]/td[19]",Starter
 343,Tyler Thornburg,Bos,P,Doubles or Nothin,10688,http://www.fangraphs.com/statss.aspx?playerid=10688&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__15""]/td[19]",Starter
 347,Wei-Yin Chen,Mia,P,Doubles or Nothin,13071,http://www.fangraphs.com/statss.aspx?playerid=13071&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[19]",Starter
-352,Wilson Ramos,TB ,C,Doubles or Nothin,1433,http://www.fangraphs.com/statss.aspx?playerid=1433&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[21]",Bench
+352,Wilson Ramos,TBÂ ,C,Doubles or Nothin,1433,http://www.fangraphs.com/statss.aspx?playerid=1433&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[21]",Bench
 10,Addison Russell,ChC,SS,Rockford Peaches,14106,http://www.fangraphs.com/statss.aspx?playerid=14106&position=2B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[21]",Starter
 39,Brandon Finnegan,Cin,P,Rockford Peaches,16208,http://www.fangraphs.com/statss.aspx?playerid=16208&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[19]",Starter
 49,Byron Buxton,Min,OF,Rockford Peaches,14161,http://www.fangraphs.com/statss.aspx?playerid=14161&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
@@ -132,7 +132,7 @@
 162,Jarrod Dyson,Sea,OF,Rockford Peaches,4866,http://www.fangraphs.com/statss.aspx?playerid=4866&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__34""]/td[21]",Starter
 173,Jerad Eickhoff,Phi,P,Rockford Peaches,12664,http://www.fangraphs.com/statss.aspx?playerid=12664&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[19]",Starter
 191,Jonathan Broxton,StL,P,Rockford Peaches,4759,http://www.fangraphs.com/statss.aspx?playerid=4759&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__43""]/td[19]",Bench
-199,Jose Bautista,Tor,OF,Rockford Peaches,1887,http://www.fangraphs.com/statss.aspx?playerid=1887&position=3B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__46""]/td[21]",Starter
+199,Jose Bautista,Tor,OF,Rockford Peaches,1887,http://www.fangraphs.com/statss.aspx?playerid=1887&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__46""]/td[21]",Starter
 214,Julio Teheran,Atl,P,Rockford Peaches,6797,http://www.fangraphs.com/statss.aspx?playerid=6797&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[19]",Starter
 236,Kyle Schwarber,ChC,OF,Rockford Peaches,16478,http://www.fangraphs.com/statss.aspx?playerid=16478&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[21]",Starter
 245,Maikel Franco,Phi,3B,Rockford Peaches,12179,http://www.fangraphs.com/statss.aspx?playerid=12179&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[21]",Starter
@@ -150,20 +150,20 @@
 338,Troy Tulowitzki,Tor,SS,Rockford Peaches,3531,http://www.fangraphs.com/statss.aspx?playerid=3531&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__43""]/td[21]",Starter
 360,Yu Darvish,Tex,P,Rockford Peaches,13074,http://www.fangraphs.com/statss.aspx?playerid=13074&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
 26,Anthony Rizzo,ChC,1B,Team Baumgardner,3473,http://www.fangraphs.com/statss.aspx?playerid=3473&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
-48,Buster Posey,SF ,C,Team Baumgardner,9166,http://www.fangraphs.com/statss.aspx?playerid=9166&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__30""]/td[21]",Starter
+48,Buster Posey,SFÂ ,C,Team Baumgardner,9166,http://www.fangraphs.com/statss.aspx?playerid=9166&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__30""]/td[21]",Starter
 51,Cam Bedrosian,LAA,P,Team Baumgardner,13360,http://www.fangraphs.com/statss.aspx?playerid=13360&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[19]",Starter
 53,Carlos Beltran,Hou,OF,Team Baumgardner,589,http://www.fangraphs.com/statss.aspx?playerid=589&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__58""]/td[21]",Starter
-65,Carter Capps,SD ,P,Team Baumgardner,12803,http://www.fangraphs.com/statss.aspx?playerid=12803&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__14""]/td[19]",Bench
+65,Carter Capps,SDÂ ,P,Team Baumgardner,12803,http://www.fangraphs.com/statss.aspx?playerid=12803&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__14""]/td[19]",Bench
 73,Chris Tillman,Bal,P,Team Baumgardner,5279,http://www.fangraphs.com/statss.aspx?playerid=5279&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[19]",Starter
-101,Didi Gregorius,NYY,SS,Team Baumgardner,6012,http://www.fangraphs.com/statss.aspx?playerid=6012&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[21]",Bench
+101,Didi Gregorius,NYY,SS,Team Baumgardner,6012,http://www.fangraphs.com/statss.aspx?playerid=6012&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[21]",Bench
 102,DJ LeMahieu,Col,2B,Team Baumgardner,9874,http://www.fangraphs.com/statss.aspx?playerid=9874&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[21]",Starter
 118,Ervin Santana,Min,P,Team Baumgardner,3200,http://www.fangraphs.com/statss.aspx?playerid=3200&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__39""]/td[19]",Starter
 123,Felix Hernandez,Sea,P,Team Baumgardner,4772,http://www.fangraphs.com/statss.aspx?playerid=4772&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__31""]/td[19]",Starter
 138,Greg Holland,Col,P,Team Baumgardner,7196,http://www.fangraphs.com/statss.aspx?playerid=7196&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[19]",Starter
-146,Ian Kennedy,KC ,P,Team Baumgardner,6986,http://www.fangraphs.com/statss.aspx?playerid=6986&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[19]",Starter
+146,Ian Kennedy,KCÂ ,P,Team Baumgardner,6986,http://www.fangraphs.com/statss.aspx?playerid=6986&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[19]",Starter
 157,Jake Lamb,Ari,3B,Team Baumgardner,13329,http://www.fangraphs.com/statss.aspx?playerid=13329&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[21]",Starter
-158,Jake Odorizzi,TB ,P,Team Baumgardner,6397,http://www.fangraphs.com/statss.aspx?playerid=6397&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[19]",Starter
-188,Johnny Cueto,SF ,P,Team Baumgardner,6893,http://www.fangraphs.com/statss.aspx?playerid=6893&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__37""]/td[19]",Starter
+158,Jake Odorizzi,TBÂ ,P,Team Baumgardner,6397,http://www.fangraphs.com/statss.aspx?playerid=6397&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[19]",Starter
+188,Johnny Cueto,SFÂ ,P,Team Baumgardner,6893,http://www.fangraphs.com/statss.aspx?playerid=6893&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__37""]/td[19]",Starter
 196,Jordy Mercer,Pit,SS,Team Baumgardner,6547,http://www.fangraphs.com/statss.aspx?playerid=6547&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
 203,Jose Peraza,Cin,SS,Team Baumgardner,13593,http://www.fangraphs.com/statss.aspx?playerid=13593&position=2B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
 238,Lance Lynn,StL,P,Team Baumgardner,2520,http://www.fangraphs.com/statss.aspx?playerid=2520&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Starter
@@ -183,7 +183,7 @@
 6,Adam Jones,Bal,OF,Team Boyles,6368,http://www.fangraphs.com/statss.aspx?playerid=6368&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__32""]/td[21]",Starter
 13,Albert Pujols,LAA,1B,Team Boyles,1177,http://www.fangraphs.com/statss.aspx?playerid=1177&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__45""]/td[21]",Bench
 14,Aledmys Diaz,StL,SS,Team Boyles,15937,http://www.fangraphs.com/statss.aspx?playerid=15937&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__12""]/td[21]",Starter
-17,Alex Colome,TB ,P,Team Boyles,6661,http://www.fangraphs.com/statss.aspx?playerid=6661&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[19]",Bench
+17,Alex Colome,TBÂ ,P,Team Boyles,6661,http://www.fangraphs.com/statss.aspx?playerid=6661&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[19]",Bench
 64,Carlos Santana,Cle,1B,Team Boyles,2396,http://www.fangraphs.com/statss.aspx?playerid=2396&position=C/1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__30""]/td[21]",Starter
 76,Cody Allen,Cle,P,Team Boyles,12183,http://www.fangraphs.com/statss.aspx?playerid=12183&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__24""]/td[19]",Bench
 81,Craig Kimbrel,Bos,P,Team Boyles,6655,http://www.fangraphs.com/statss.aspx?playerid=6655&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__32""]/td[19]",Starter
@@ -192,18 +192,18 @@
 106,Dustin Pedroia,Bos,2B,Team Boyles,8370,http://www.fangraphs.com/statss.aspx?playerid=8370&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__34""]/td[21]",Starter
 111,Edwin Diaz,Sea,P,Team Boyles,14710,http://www.fangraphs.com/statss.aspx?playerid=14710&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__13""]/td[19]",Starter
 120,Evan Gattis,Hou,C,Team Boyles,11003,http://www.fangraphs.com/statss.aspx?playerid=11003&position=C/DH,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
-121,Evan Longoria,TB ,3B,Team Boyles,9368,http://www.fangraphs.com/statss.aspx?playerid=9368&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__35""]/td[21]",Starter
+121,Evan Longoria,TBÂ ,3B,Team Boyles,9368,http://www.fangraphs.com/statss.aspx?playerid=9368&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__35""]/td[21]",Starter
 140,Hanley Ramirez,Bos,1B,Team Boyles,8001,http://www.fangraphs.com/statss.aspx?playerid=8001&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[21]",Starter
 207,Jose Ramirez,Cle,3B/SS,Team Boyles,13510,http://www.fangraphs.com/statss.aspx?playerid=13510&position=3B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[21]",Starter
-221,Kelvin Herrera,KC ,P,Team Boyles,6033,http://www.fangraphs.com/statss.aspx?playerid=6033&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter
+221,Kelvin Herrera,KCÂ ,P,Team Boyles,6033,http://www.fangraphs.com/statss.aspx?playerid=6033&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter
 222,Ken Giles,Hou,P,Team Boyles,12910,http://www.fangraphs.com/statss.aspx?playerid=12910&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
 225,Kenta Maeda,LAD,P,Team Boyles,18498,http://www.fangraphs.com/statss.aspx?playerid=18498&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__8""]/td[19]",Starter
 230,Khris Davis,Oak,OF,Team Boyles,9112,http://www.fangraphs.com/statss.aspx?playerid=9112&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
-252,Mark Melancon,SF ,P,Team Boyles,4264,http://www.fangraphs.com/statss.aspx?playerid=4264&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__37""]/td[19]",Starter
+252,Mark Melancon,SFÂ ,P,Team Boyles,4264,http://www.fangraphs.com/statss.aspx?playerid=4264&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__37""]/td[19]",Starter
 260,Matt Kemp,Atl,OF,Team Boyles,5631,http://www.fangraphs.com/statss.aspx?playerid=5631&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__40""]/td[21]",Starter
 270,Michael Fulmer,Det,P,Team Boyles,13218,http://www.fangraphs.com/statss.aspx?playerid=13218&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
 293,Odubel Herrera,Phi,OF,Team Boyles,11476,http://www.fangraphs.com/statss.aspx?playerid=11476&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Bench
-298,Rich Hill,LAD,P,Team Boyles,4806,http://www.fangraphs.com/statss.aspx?playerid=4806&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__54""]/td[19]",Starter
+298,Rich Hill,LAD,P,Team Boyles,4806,http://www.fangraphs.com/statss.aspx?playerid=4806&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__55""]/td[19]",Starter
 302,Roberto Osuna,Tor,P,Team Boyles,13764,http://www.fangraphs.com/statss.aspx?playerid=13764&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
 ,Seung Hwan Oh,StL,P,Team Boyles,,http://www.fangraphs.com/statss.aspx?playerid=18719&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__7""]/td[19]",Starter
 320,Stephen Piscotty,StL,OF,Team Boyles,13367,http://www.fangraphs.com/statss.aspx?playerid=13367&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__15""]/td[21]",Starter
@@ -214,25 +214,25 @@
 78,Collin McHugh,Hou,P,Team Ellis,7531,http://www.fangraphs.com/statss.aspx?playerid=7531&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[19]",Starter
 91,David Dahl,Col,OF,Team Ellis,13744,http://www.fangraphs.com/statss.aspx?playerid=13744&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__8""]/td[21]",Bench
 100,Dexter Fowler,StL,OF,Team Ellis,4062,http://www.fangraphs.com/statss.aspx?playerid=4062&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[21]",Starter
-109,Eduardo Nunez,SF ,SS,Team Ellis,6848,http://www.fangraphs.com/statss.aspx?playerid=6848&position=3B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__39""]/td[21]",Starter
+109,Eduardo Nunez,SFÂ ,SS,Team Ellis,6848,http://www.fangraphs.com/statss.aspx?playerid=6848&position=3B/SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__39""]/td[21]",Starter
 110,Eduardo Rodriguez,Bos,P,Team Ellis,13164,http://www.fangraphs.com/statss.aspx?playerid=13164&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[19]",Starter
 115,Ender Inciarte,Atl,OF,Team Ellis,4922,http://www.fangraphs.com/statss.aspx?playerid=4922&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
-116,Eric Hosmer,KC ,1b,Team Ellis,3516,http://www.fangraphs.com/statss.aspx?playerid=3516&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[21]",Starter
+116,Eric Hosmer,KCÂ ,1b,Team Ellis,3516,http://www.fangraphs.com/statss.aspx?playerid=3516&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[21]",Starter
 125,Francisco Cervelli,Pit,C,Team Ellis,5275,http://www.fangraphs.com/statss.aspx?playerid=5275&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__41""]/td[21]",Starter
 134,Gerrit Cole,Pit,P,Team Ellis,13125,http://www.fangraphs.com/statss.aspx?playerid=13125&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[19]",Starter
 147,Ian Kinsler,Det,2B,Team Ellis,6195,http://www.fangraphs.com/statss.aspx?playerid=6195&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[21]",Starter
 167,Javier Baez,ChC,2B/3B,Team Ellis,12979,http://www.fangraphs.com/statss.aspx?playerid=12979&position=2B/3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
-172,Jeff Samardzija,SF ,P,Team Ellis,3254,http://www.fangraphs.com/statss.aspx?playerid=3254&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__35""]/td[19]",Starter
+172,Jeff Samardzija,SFÂ ,P,Team Ellis,3254,http://www.fangraphs.com/statss.aspx?playerid=3254&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__35""]/td[19]",Starter
 190,Jon Lester,ChC,P,Team Ellis,4930,http://www.fangraphs.com/statss.aspx?playerid=4930&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__40""]/td[19]",Starter
-210,Josh Bell,Pit,1B,Team Ellis,13145,http://www.fangraphs.com/statss.aspx?playerid=13145&position=1B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__14""]/td[21]",Starter
-233,Kris Bryant,ChC,3B,Team Ellis,15429,http://www.fangraphs.com/statss.aspx?playerid=15429&position=3B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[21]",Starter
-240,Lorenzo Cain,KC ,OF,Team Ellis,9077,http://www.fangraphs.com/statss.aspx?playerid=9077&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[21]",Starter
+210,Josh Bell,Pit,1B,Team Ellis,13145,http://www.fangraphs.com/statss.aspx?playerid=13145&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__14""]/td[21]",Starter
+233,Kris Bryant,ChC,3B,Team Ellis,15429,http://www.fangraphs.com/statss.aspx?playerid=15429&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[21]",Starter
+240,Lorenzo Cain,KCÂ ,OF,Team Ellis,9077,http://www.fangraphs.com/statss.aspx?playerid=9077&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[21]",Starter
 259,Matt Harvey,NYM,P,Team Ellis,11713,http://www.fangraphs.com/statss.aspx?playerid=11713&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
 277,Mike Foltynewicz,Atl,P,Team Ellis,10811,http://www.fangraphs.com/statss.aspx?playerid=10811&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[19]",Starter
 278,Mike Leake,StL,P,Team Ellis,10130,http://www.fangraphs.com/statss.aspx?playerid=10130&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[19]",Starter
 295,Raisel Iglesias,Cin,P,Team Ellis,17130,http://www.fangraphs.com/statss.aspx?playerid=17130&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__11""]/td[19]",Starter
 305,Russell Martin,Tor,C,Team Ellis,4616,http://www.fangraphs.com/statss.aspx?playerid=4616&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__37""]/td[21]",Starter
-311,Sam Dyson,Tex,P,Team Ellis,11710,http://www.fangraphs.com/statss.aspx?playerid=11710&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[19]",Starter
+311,Sam Dyson,Tex,P,Team Ellis,11710,http://www.fangraphs.com/statss.aspx?playerid=11710&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[19]",Starter
 312,Santiago Casilla,Oak,P,Team Ellis,2873,http://www.fangraphs.com/statss.aspx?playerid=2873&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__45""]/td[19]",Bench
 316,Shelby Miller,Ari,P,Team Ellis,10197,http://www.fangraphs.com/statss.aspx?playerid=10197&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[19]",Starter
 319,Starling Marte,Pit,OF,Team Ellis,9241,http://www.fangraphs.com/statss.aspx?playerid=9241&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[21]",Starter
@@ -243,16 +243,16 @@
 9,Addison Reed,NYM,P,Team Tierney,10586,http://www.fangraphs.com/statss.aspx?playerid=10586&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[19]",Starter
 31,Billy Hamilton,Cin,OF,Team Tierney,10199,http://www.fangraphs.com/statss.aspx?playerid=10199&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[21]",Starter
 33,Blake Treinen,Wsh,P,Team Tierney,12572,http://www.fangraphs.com/statss.aspx?playerid=12572&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[19]",Bench
-41,Brandon Maurer,SD ,P,Team Tierney,4878,http://www.fangraphs.com/statss.aspx?playerid=4878&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[19]",Starter
+41,Brandon Maurer,SDÂ ,P,Team Tierney,4878,http://www.fangraphs.com/statss.aspx?playerid=4878&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[19]",Starter
 68,Charlie Blackmon,Col,OF,Team Tierney,7859,http://www.fangraphs.com/statss.aspx?playerid=7859&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[21]",Starter
 85,Daniel Hudson,Pit,P,Team Tierney,7146,http://www.fangraphs.com/statss.aspx?playerid=7146&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__31""]/td[19]",Bench
 93,David Phelps,Mia,P,Team Tierney,6316,http://www.fangraphs.com/statss.aspx?playerid=6316&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[19]",Starter
-98,Devin Mesoraco,Cin,C,Team Tierney,5666,http://www.fangraphs.com/statss.aspx?playerid=5666&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[21]",Starter
+98,Devin Mesoraco,Cin,C,Team Tierney,5666,http://www.fangraphs.com/statss.aspx?playerid=5666&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__30""]/td[21]",Starter
 113,Edwin Encarnacion,Cle,1B/3B/DH,Team Tierney,2151,http://www.fangraphs.com/statss.aspx?playerid=2151&position=1B/3B/DH,"//*[@id=""SeasonStats1_dgSeason11_ctl00__40""]/td[21]",Starter
 124,Fernando Rodney,Ari,P,Team Tierney,494,http://www.fangraphs.com/statss.aspx?playerid=494&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__42""]/td[19]",Starter
-137,Grant Dayton,LAD,P,Team Tierney,11203,http://www.fangraphs.com/statss.aspx?playerid=11203&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[19]",Starter
+137,Grant Dayton,LAD,P,Team Tierney,11203,http://www.fangraphs.com/statss.aspx?playerid=11203&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[19]",Starter
 150,J.D. Martinez,Det,OF,Team Tierney,6184,http://www.fangraphs.com/statss.aspx?playerid=6184&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[21]",Starter
-164,Jason Hammel,KC ,P,Team Tierney,4538,http://www.fangraphs.com/statss.aspx?playerid=4538&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__39""]/td[19]",Starter
+164,Jason Hammel,KCÂ ,P,Team Tierney,4538,http://www.fangraphs.com/statss.aspx?playerid=4538&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__39""]/td[19]",Starter
 177,Jim Johnson,Atl,P,Team Tierney,3656,http://www.fangraphs.com/statss.aspx?playerid=3656&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__41""]/td[19]",Starter
 187,John Lackey,ChC,P,Team Tierney,1507,http://www.fangraphs.com/statss.aspx?playerid=1507&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__48""]/td[19]",Starter
 194,Jonathan Villar,Mil,SS,Team Tierney,10071,http://www.fangraphs.com/statss.aspx?playerid=10071&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[21]",Starter
@@ -275,31 +275,31 @@
 21,Andrew Benintendi,Bos,OF,Tebowie Baysox,17901,http://www.fangraphs.com/statss.aspx?playerid=17901&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__12""]/td[21]",Starter
 27,Aroldis Chapman,NYY,P,Tebowie Baysox,10233,http://www.fangraphs.com/statss.aspx?playerid=10233&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter
 30,Ben Zobrist,ChC,2B/OF,Tebowie Baysox,7435,http://www.fangraphs.com/statss.aspx?playerid=7435&position=2B/OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__43""]/td[21]",Starter
-32,Blake Snell,TB ,P,Tebowie Baysox,13543,http://www.fangraphs.com/statss.aspx?playerid=13543&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[19]",Bench
+32,Blake Snell,TBÂ ,P,Tebowie Baysox,13543,http://www.fangraphs.com/statss.aspx?playerid=13543&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[19]",Bench
 43,Brett Gardner,NYY,OF,Tebowie Baysox,9927,http://www.fangraphs.com/statss.aspx?playerid=9927&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[21]",Starter
 97,Dellin Betances,NYY,P,Tebowie Baysox,6216,http://www.fangraphs.com/statss.aspx?playerid=6216&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__28""]/td[19]",Starter
 104,Drew Pomeranz,Bos,P,Tebowie Baysox,11426,http://www.fangraphs.com/statss.aspx?playerid=11426&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter
 129,Francisco Rodriguez,Det,P,Tebowie Baysox,1642,http://www.fangraphs.com/statss.aspx?playerid=1642&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__47""]/td[19]",Starter
 131,Garrett Richards,LAA,P,Tebowie Baysox,9784,http://www.fangraphs.com/statss.aspx?playerid=9784&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[19]",Starter
-132,Gary Sanchez,NYY,C,Tebowie Baysox,11442,http://www.fangraphs.com/statss.aspx?playerid=11442&position=C/DH,"//*[@id=""SeasonStats1_dgSeason11_ctl00__20""]/td[21]",Starter
+132,Gary Sanchez,NYY,C,Tebowie Baysox,11442,http://www.fangraphs.com/statss.aspx?playerid=11442&position=C/DH,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[21]",Starter
 ,Greg Bird,,1B,Tebowie Baysox,,http://www.fangraphs.com/statss.aspx?playerid=14131&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[21]",Starter
 142,Hisashi Iwakuma,Sea,P,Tebowie Baysox,13048,http://www.fangraphs.com/statss.aspx?playerid=13048&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__18""]/td[19]",Starter
-145,Ian Desmond,Col,OF,Tebowie Baysox,6885,http://www.fangraphs.com/statss.aspx?playerid=6885&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
+145,Ian Desmond,Col,OF,Tebowie Baysox,6885,http://www.fangraphs.com/statss.aspx?playerid=6885&position=SS,"//*[@id=""SeasonStats1_dgSeason11_ctl00__31""]/td[21]",Starter
 152,Jackie Bradley Jr.,Bos,OF,Tebowie Baysox,12984,http://www.fangraphs.com/statss.aspx?playerid=12984&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[21]",Starter
 166,Jason Kipnis,Cle,2B,Tebowie Baysox,9776,http://www.fangraphs.com/statss.aspx?playerid=9776&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[21]",Starter
 185,Joe Ross,Wsh,P,Tebowie Baysox,12972,http://www.fangraphs.com/statss.aspx?playerid=12972&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[19]",Bench
 195,Jordan Zimmermann,Det,P,Tebowie Baysox,4505,http://www.fangraphs.com/statss.aspx?playerid=4505&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__33""]/td[19]",Bench
-215,Julio Urias,LAD,P,Tebowie Baysox,14765,http://www.fangraphs.com/statss.aspx?playerid=14765&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__7""]/td[19]",Starter
+215,Julio Urias,LAD,P,Tebowie Baysox,14765,http://www.fangraphs.com/statss.aspx?playerid=14765&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__16""]/td[19]",Starter
 224,Kenley Jansen,LAD,P,Tebowie Baysox,3096,http://www.fangraphs.com/statss.aspx?playerid=3096&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__29""]/td[19]",Starter
 246,Manny Machado,Bal,3B,Tebowie Baysox,11493,http://www.fangraphs.com/statss.aspx?playerid=11493&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Starter
-261,Matt Moore,SF ,P,Tebowie Baysox,1890,http://www.fangraphs.com/statss.aspx?playerid=1890&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__31""]/td[19]",Starter
+261,Matt Moore,SFÂ ,P,Tebowie Baysox,1890,http://www.fangraphs.com/statss.aspx?playerid=1890&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__31""]/td[19]",Starter
 ,Nick Castellanos,,3B,Tebowie Baysox,,http://www.fangraphs.com/statss.aspx?playerid=11737&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[21]",Starter
 294,Paul Goldschmidt,Ari,1B,Tebowie Baysox,9218,http://www.fangraphs.com/statss.aspx?playerid=9218&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[21]",Starter
 297,Randal Grichuk,StL,OF,Tebowie Baysox,10243,http://www.fangraphs.com/statss.aspx?playerid=10243&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[21]",Bench
 332,Tony Watson,Pit,P,Tebowie Baysox,3132,http://www.fangraphs.com/statss.aspx?playerid=3132&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__25""]/td[19]",Starter
 354,Yadier Molina,StL,C,Tebowie Baysox,7007,http://www.fangraphs.com/statss.aspx?playerid=7007&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__41""]/td[21]",Starter
 ,Yulieski Gurriel,,3B,Tebowie Baysox,,http://www.fangraphs.com/statss.aspx?playerid=19198&position=1B/3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__11""]/td[21]",Bench
-37,Brandon Belt,SF ,1B,The Natural,10264,http://www.fangraphs.com/statss.aspx?playerid=10264&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
+37,Brandon Belt,SFÂ ,1B,The Natural,10264,http://www.fangraphs.com/statss.aspx?playerid=10264&position=1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
 56,Carlos Gomez,Tex,OF,The Natural,4881,http://www.fangraphs.com/statss.aspx?playerid=4881&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__42""]/td[21]",Starter
 75,Clayton Kershaw,LAD,P,The Natural,2036,http://www.fangraphs.com/statss.aspx?playerid=2036&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__36""]/td[19]",Starter
 83,Dallas Keuchel,Hou,P,The Natural,9434,http://www.fangraphs.com/statss.aspx?playerid=9434&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__23""]/td[19]",Starter
@@ -319,7 +319,7 @@
 211,Josh Donaldson,Tor,3B,The Natural,5038,http://www.fangraphs.com/statss.aspx?playerid=5038&position=3B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__30""]/td[21]",Starter
 232,Kole Calhoun,LAA,OF,The Natural,11200,http://www.fangraphs.com/statss.aspx?playerid=11200&position=OF,"//*[@id=""SeasonStats1_dgSeason11_ctl00__21""]/td[21]",Starter
 ,Lance McCullers Jr.,,P,The Natural,,http://www.fangraphs.com/statss.aspx?playerid=14120&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__17""]/td[19]",Starter
-239,Logan Forsythe,LAD,2B,The Natural,7185,http://www.fangraphs.com/statss.aspx?playerid=7185&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[21]",Starter
+239,Logan Forsythe,LAD,2B,The Natural,7185,http://www.fangraphs.com/statss.aspx?playerid=7185&position=2B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[21]",Starter
 251,Marcus Stroman,Tor,P,The Natural,13431,http://www.fangraphs.com/statss.aspx?playerid=13431&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__19""]/td[19]",Starter
 272,Michael Pineda,NYY,P,The Natural,5372,http://www.fangraphs.com/statss.aspx?playerid=5372&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[19]",Starter
 281,Mike Napoli,Tex,1B,The Natural,3057,http://www.fangraphs.com/statss.aspx?playerid=3057&position=C/1B,"//*[@id=""SeasonStats1_dgSeason11_ctl00__40""]/td[21]",Starter
@@ -331,10 +331,10 @@
 357,Yasmani Grandal,LAD,C,The Natural,11368,http://www.fangraphs.com/statss.aspx?playerid=11368&position=C,"//*[@id=""SeasonStats1_dgSeason11_ctl00__26""]/td[21]",Starter
 5,Adam Eaton,Wsh,OF,The War Tour,11205,http://www.fangraphs.com/statss.aspx?playerid=11205&position=OF,//*[@id='SeasonStats1_dgSeason11_ctl00__24']/td[21],Starter
 15,Alex Bregman,Hou,3B,The War Tour,17678,http://www.fangraphs.com/statss.aspx?playerid=17678&position=3B,//*[@id='SeasonStats1_dgSeason11_ctl00__11']/td[21],Starter
-38,Brandon Crawford,SF ,SS,The War Tour,5343,http://www.fangraphs.com/statss.aspx?playerid=5343&position=SS,//*[@id='SeasonStats1_dgSeason11_ctl00__28']/td[21],Starter
+38,Brandon Crawford,SFÂ ,SS,The War Tour,5343,http://www.fangraphs.com/statss.aspx?playerid=5343&position=SS,//*[@id='SeasonStats1_dgSeason11_ctl00__28']/td[21],Starter
 71,Chris Davis,Bal,1B,The War Tour,9272,http://www.fangraphs.com/statss.aspx?playerid=9272&position=1B,//*[@id='SeasonStats1_dgSeason11_ctl00__37']/td[21],Starter
 84,Dan Straily,Mia,P,The War Tour,9460,http://www.fangraphs.com/statss.aspx?playerid=9460&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__27']/td[19],Bench
-88,Danny Duffy,KC ,P,The War Tour,3542,http://www.fangraphs.com/statss.aspx?playerid=3542&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__31']/td[19],Starter
+88,Danny Duffy,KCÂ ,P,The War Tour,3542,http://www.fangraphs.com/statss.aspx?playerid=3542&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__31']/td[19],Starter
 89,Danny Salazar,Cle,P,The War Tour,5867,http://www.fangraphs.com/statss.aspx?playerid=5867&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__27""]/td[19]",Starter
 90,Dansby Swanson,Atl,SS,The War Tour,18314,http://www.fangraphs.com/statss.aspx?playerid=18314&position=SS,//*[@id='SeasonStats1_dgSeason11_ctl00__10']/td[21],Starter
 127,Francisco Liriano,Tor,P,The War Tour,3201,http://www.fangraphs.com/statss.aspx?playerid=3201&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__41']/td[19],Bench
@@ -347,7 +347,7 @@
 204,Jose Quintana,CWS,P,The War Tour,11423,http://www.fangraphs.com/statss.aspx?playerid=11423&position=P,"//*[@id=""SeasonStats1_dgSeason11_ctl00__22""]/td[19]",Starter
 212,Josh Harrison,Pit,2B,The War Tour,8202,http://www.fangraphs.com/statss.aspx?playerid=8202&position=2B/3B,//*[@id='SeasonStats1_dgSeason11_ctl00__29']/td[21],Bench
 227,Kevin Gausman,Bal,P,The War Tour,14107,http://www.fangraphs.com/statss.aspx?playerid=14107&position=P,//*[@id='SeasonStats1_dgSeason11_ctl00__26']/td[19],Starter
-247,Manuel Margot,SD ,OF,The War Tour,14712,http://www.fangraphs.com/statss.aspx?playerid=14712&position=OF,//*[@id='SeasonStats1_dgSeason11_ctl00__14']/td[21],Bench
+247,Manuel Margot,SDÂ ,OF,The War Tour,14712,http://www.fangraphs.com/statss.aspx?playerid=14712&position=OF,//*[@id='SeasonStats1_dgSeason11_ctl00__14']/td[21],Bench
 275,Miguel Sano,Min,3B/DH,The War Tour,12164,http://www.fangraphs.com/statss.aspx?playerid=12164&position=3B/DH,//*[@id='SeasonStats1_dgSeason11_ctl00__17']/td[21],Starter
 283,Mike Zunino,Sea,C,The War Tour,13265,http://www.fangraphs.com/statss.aspx?playerid=13265&position=C,//*[@id='SeasonStats1_dgSeason11_ctl00__18']/td[21],Starter
 284,Mitch Haniger,Sea,OF,The War Tour,14274,http://www.fangraphs.com/statss.aspx?playerid=14274&position=OF,//*[@id='SeasonStats1_dgSeason11_ctl00__17']/td[21],Starter
