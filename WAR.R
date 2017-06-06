@@ -10,7 +10,7 @@ test <- read.csv("C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Input.csv")
 #Injured, Suspended, Minors
 
 #Big Sexy          -> DeSclafani, Rodon
-#Doubles or Nothin -> Price, Giolito, Thornburg, Ramos
+#Doubles or Nothin -> Giolito, Thornburg, Ramos
 #Billy Heywood     -> Beltre, A. Reyes, Smyly, De Leon, Kang, Kazmir
 #Bluff Bunters     -> No one
 #Rockford Peaches  -> Matz
@@ -49,16 +49,21 @@ colnames(war_final) <- c("Player", "Position", "Team", "WAR", "PA_IP", "Status")
 
 #List players who haven't played a game in 2017
 
-void <- war_final$Player %in% c('Anthony DeSclafani', 'Carlos Rodon', 'David Price',
-                                'Lucas Giolito', 'Tyler Thornburg', 'Wilson Ramos', 'Adrian Beltre',
-                                'Alex Reyes', 'Drew Smyly', 'Jose De Leon', 'Jung Ho Kang', 'Scott Kazmir', 
-                                'Steven Matz', 'Carter Capps',
+void <- war_final$Player %in% c('Anthony DeSclafani', 'Carlos Rodon', 'Lucas Giolito', 
+                                'Tyler Thornburg', 'Wilson Ramos', 'Alex Reyes', 'Drew Smyly',
+                                'Jung Ho Kang', 'Scott Kazmir', 'Steven Matz', 'Carter Capps',
                                 'Mauricio Cabrera', 'Tom Murphy', 'Collin McHugh', 'David Dahl', 
                                 'Tyson Ross')
 #Set their WAR and PA_IP value to 0
 war_final$WAR[void] <- 0
 war_final$PA_IP[void] <- 0
-
+war_final$WAR[294] <- -0.4
+war_final$PA_IP[294] <- 181
+# war_final$WAR[68] <- 0.4
+# war_final$PA_IP[68] <- 37.1
+# war_final$WAR[16] <- 1.8
+# war_final$PA_IP[16] <- 37.2
+    
 #Account for bench player's 50% weight
 for (i in 1:360) {
   
