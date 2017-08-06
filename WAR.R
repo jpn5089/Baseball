@@ -2,22 +2,22 @@ library(XML)
 library(dplyr)
 
 #File with Player Fangraphs URL and xpath
-test <- read.csv("C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Input.csv")
+test <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/WAR_Input.csv")
 
 #Use merge statement if you just grab csv's with 2017 stats straight from FanGraphs 
 #Merge needed bc those datasets may not include all of our 360 players
 
 #Injured, Suspended, Minors
 
-#Big Sexy          -> DeSclafani, Rodon
-#Doubles or Nothin -> Giolito, Thornburg, Ramos
-#Billy Heywood     -> Beltre, A. Reyes, Smyly, De Leon, Kang, Kazmir
+#Big Sexy          -> DeSclafani
+#Doubles or Nothin -> Giolito, Thornburg
+#Billy Heywood     -> A. Reyes, Smyly, Kang, Kazmir
 #Bluff Bunters     -> No one
-#Rockford Peaches  -> Matz
-#Baumgardner       -> Capps, M. Cabrera, T. Murphy
+#Rockford Peaches  -> No one
+#Baumgardner       -> Capps, M. Cabrera
 #Boyles            -> No One
-#Ellis             -> McHugh, Dahl
-#Tierney           -> T. Ross
+#Ellis             -> Dahl
+#Tierney           -> No One
 #Tebowie Baysox    -> No One
 #Natural           -> No One
 #War Tour          -> No one
@@ -26,6 +26,7 @@ test <- read.csv("C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Input.csv")
 war <- list()
 
 for (i in 1:360){
+  print(i)
   print(test[i,2])
   data_war <- htmlParse(as.character(test[i,7])) #URL for parsing WAR
   #Using that URL as well as xpath to grab 2017 WAR value
@@ -49,16 +50,15 @@ colnames(war_final) <- c("Player", "Position", "Team", "WAR", "PA_IP", "Status")
 
 #List players who haven't played a game in 2017
 
-void <- war_final$Player %in% c('Anthony DeSclafani', 'Carlos Rodon', 'Lucas Giolito', 
-                                'Tyler Thornburg', 'Wilson Ramos', 'Alex Reyes', 'Drew Smyly',
-                                'Jung Ho Kang', 'Scott Kazmir', 'Steven Matz', 'Carter Capps',
-                                'Mauricio Cabrera', 'Tom Murphy', 'Collin McHugh', 'David Dahl', 
-                                'Tyson Ross')
+void <- war_final$Player %in% c('Anthony DeSclafani', 'Lucas Giolito', 
+                                'Tyler Thornburg', 'Alex Reyes', 'Drew Smyly',
+                                'Jung Ho Kang', 'Scott Kazmir', 'Carter Capps',
+                                'Mauricio Cabrera', 'David Dahl')
 #Set their WAR and PA_IP value to 0
 war_final$WAR[void] <- 0
 war_final$PA_IP[void] <- 0
-war_final$WAR[294] <- -0.4
-war_final$PA_IP[294] <- 181
+#war_final$WAR[294] <- -0.4
+#war_final$PA_IP[294] <- 181
 # war_final$WAR[68] <- 0.4
 # war_final$PA_IP[68] <- 37.1
 # war_final$WAR[16] <- 1.8
@@ -125,5 +125,5 @@ colnames(standings)[2] <- "Total WAR"
 ordered_stand <- standings[order(-standings$`Total WAR`),]
 
 
-write.csv(war_final, "C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Output.csv")
-write.csv(ordered_stand, "C:\\Users\\John\\Documents\\GitHub\\Baseball\\WAR_Standings.csv")
+write.csv(war_final, "C://Users/johnp/Documents/GitHub/Baseball/WAR_Output.csv")
+write.csv(ordered_stand, "C://Users/johnp/Documents/GitHub/Baseball/WAR_Standings.csv")

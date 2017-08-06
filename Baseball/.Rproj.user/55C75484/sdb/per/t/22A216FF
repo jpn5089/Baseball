@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1501906542150.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "22A216FF",
+    "lastKnownWriteTime" : 3,
+    "last_content_update" : 1501906542150,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "636E760B",
+        "caption" : "ordered_stand",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=ordered_stand&cache_key=636E760B",
+        "displayedObservations" : 12,
+        "environment" : "",
+        "object" : "ordered_stand",
+        "preview" : 0,
+        "totalObservations" : 12,
+        "variables" : 8
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
