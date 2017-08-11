@@ -2,7 +2,7 @@ library(XML)
 library(dplyr)
 
 #File with Player Fangraphs URL and xpath
-test <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/WAR_Input.csv")
+test <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/WAR League/WAR_Input.csv")
 
 #Use merge statement if you just grab csv's with 2017 stats straight from FanGraphs 
 #Merge needed bc those datasets may not include all of our 360 players
