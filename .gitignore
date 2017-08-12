@@ -8,7 +8,6 @@ packrat/lib*/
 *.opts
 *.lock
 *.Rda
-.Rproj.user/
-packrat/src/
-packrat/lib*/
+.Rproj.user/**
 packrat/
+.Rproj.user
