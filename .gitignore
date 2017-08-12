@@ -10,4 +10,3 @@ packrat/lib*/
 *.Rda
 .Rproj.user/**
 packrat/
-.Rproj.user
