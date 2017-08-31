@@ -10,11 +10,11 @@ test <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/WAR League/WAR_Input
 #Injured, Suspended, Minors
 
 #Big Sexy          -> DeSclafani
-#Doubles or Nothin -> Giolito, Thornburg
+#Doubles or Nothin -> Thornburg
 #Billy Heywood     -> A. Reyes, Smyly, Kang, Kazmir
 #Bluff Bunters     -> No one
 #Rockford Peaches  -> No one
-#Baumgardner       -> Capps, M. Cabrera
+#Baumgardner       -> M. Cabrera
 #Boyles            -> No One
 #Ellis             -> Dahl
 #Tierney           -> No One
@@ -50,10 +50,8 @@ colnames(war_final) <- c("Player", "Position", "Team", "WAR", "PA_IP", "Status")
 
 #List players who haven't played a game in 2017
 
-void <- war_final$Player %in% c('Anthony DeSclafani', 'Lucas Giolito', 
-                                'Tyler Thornburg', 'Alex Reyes', 'Drew Smyly',
-                                'Jung Ho Kang', 'Scott Kazmir', 'Carter Capps',
-                                'Mauricio Cabrera', 'David Dahl')
+void <- war_final$Player %in% c('Anthony DeSclafani', 'Tyler Thornburg', 'Alex Reyes', 'Drew Smyly',
+                                'Jung Ho Kang', 'Scott Kazmir', 'Mauricio Cabrera', 'David Dahl')
 #Set their WAR and PA_IP value to 0
 war_final$WAR[void] <- 0
 war_final$PA_IP[void] <- 0
