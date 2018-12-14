@@ -6,15 +6,18 @@ pitch <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/Pitch Data/pitchers
   rename(name = ï..Name) %>%
   select(name, Team, IP, WAR) 
 
-pitch$Team[33] = "Rangers"
-pitch$Team[21] = "Athletics"
-pitch$Team[35] = "White Sox"
-pitch$Team[83] = "Braves"
-pitch$Team[146] = "Padres"
-pitch$Team[167] = "Blue Jays"
-pitch$Team[186] = "Phillies"
-pitch$Team[217] = "Braves"
-#pitch$Team[253] = "Rays"
+pitch$Team[34] = "Rangers"
+pitch$Team[28] = "Athletics"
+pitch$Team[24] = "White Sox"
+pitch$Team[122] = "White Sox"
+pitch$Team[40] = "Cardinals"
+pitch$Team[89] = "Braves"
+pitch$Team[221] = "Padres"
+pitch$Team[180] = "Blue Jays"
+pitch$Team[271] = "Phillies"
+pitch$Team[200] = "Braves"
+pitch$Team[15] = "Tigers"
+pitch$Team[182] = "Rays"
 
 rank <- pitch %>%
   arrange(desc(IP)) %>%

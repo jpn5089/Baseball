@@ -1,18 +1,18 @@
 library(dplyr)
 library(ggplot2)
 
-a <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/Pitch Data/Pitchers2017.csv", check.names = F) %>%
+a <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/Pitch Data/Pitchers2018.csv", check.names = F) %>%
   select(1,8, 16, 17) %>%
   mutate(ERA_minus_FIP = ERA - FIP)
 
 colnames(a) <- c("Name", "IP", "ERA", "FIP", "ERA_minus_FIP")  
   
-b <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/Pitch Data/Pitches.csv", check.names = FALSE) %>%
+b <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/Pitch Data/Pitches2018.csv", check.names = FALSE) %>%
   select(1, Pitches)
 
 colnames(b) <- c("Name", "Pitches")  
 
-whip <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/Pitch Data/whip.csv", check.names = F) %>%
+whip <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/Pitch Data/whip2018.csv", check.names = F) %>%
   select(1,11)
 
 colnames(whip) <- c("Name", "WHIP") 
@@ -21,7 +21,7 @@ c <- merge(a, b, by = "Name") %>%
   mutate(pPerIn = round(Pitches/IP, digits = 1))
 
 final <- merge(c, whip, by = "Name") %>%
-  filter(IP >= 50) %>%
+  # filter(IP >= 20) %>%
   mutate(SHORTNAME = paste0(Name, " - ", IP, " IP")) %>%
   mutate(name_ip = paste0(Name, " - ", pPerIn, " Pitches/IP"))
 

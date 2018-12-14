@@ -1,5 +1,6 @@
 library(XML)
 library(dplyr)
+library(lubridate)
 
 #File with Player Fangraphs URL and xpath
 test <- read.csv("C://Users/johnp/Documents/GitHub/Baseball/WAR League/WAR_Input.csv")
@@ -28,10 +29,10 @@ war <- list()
 for (i in 1:360){
   print(i)
   print(test[i,2])
-  data_war <- htmlParse(as.character(test[i,7])) #URL for parsing WAR
+  data_war <- htmlParse(as.character(test[i,7]), isURL = T) #URL for parsing WAR
   #Using that URL as well as xpath to grab 2017 WAR value
   war_path <- xpathSApply(data_war, as.character(test[i,8]), xmlValue)
-  data_PA_IP <- htmlParse(as.character(test[i,7])) #URL for parsing PA or IP
+  data_PA_IP <- htmlParse(as.character(test[i,7]), isURL = T) #URL for parsing PA or IP
   #Using that URL as well as xpath to grab 2017 PA or IP value
   PA_IP_path <- xpathSApply(data_PA_IP, as.character(test[i,9]), xmlValue)
   #Choose values you want to keep from CSV 
@@ -122,6 +123,5 @@ standings <- merge(first, bat, by = "Team")
 colnames(standings)[2] <- "Total WAR"
 ordered_stand <- standings[order(-standings$`Total WAR`),]
 
-
-write.csv(war_final, "C://Users/johnp/Documents/GitHub/Baseball/WAR_Output.csv")
-write.csv(ordered_stand, "C://Users/johnp/Documents/GitHub/Baseball/WAR_Standings.csv")
+write.csv(war_final, paste0("C://Users/johnp/Documents/GitHub/Baseball/WAR League/WAR_Output_", today()-days(1), ".csv"))
+write.csv(ordered_stand, paste0("C://Users/johnp/Documents/GitHub/Baseball/WAR League/WAR_Standings_", today()-days(1), ".csv"))
