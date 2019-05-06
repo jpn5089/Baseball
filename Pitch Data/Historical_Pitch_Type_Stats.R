@@ -179,3 +179,9 @@ comparisons_w_2018 <- left_join(two_year_avg, filtered_data %>% filter(Season ==
   group_by(name) %>% 
   filter(sum(Pitches_2018 > 400) > 1) %>% 
   ungroup()
+
+pval <- filtered_data %>% 
+  filter(Season == 2018) %>% 
+  group_by(name) %>% 
+  summarise(n = sum(pVAL > 0)) %>% 
+  ungroup()
