@@ -5,6 +5,6 @@ account: jpn5089
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 319372
-bundleId: 1590869
+bundleId: 2408339
 url: https://jpn5089.shinyapps.io/draught_stats/
-when: 1537237905.85825
+when: 1568288387.78583
