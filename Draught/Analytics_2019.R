@@ -10,8 +10,9 @@ files_draught <- list.files("C://Users/johnp/Documents/GitHub/Baseball/Draught/2
   filter(grepl(".csv", files)) %>%
   pull(.)
 
-dates <- data.frame(dates = seq(ymd("2019-03-27"), ymd("2019-04-30"), by = 1)) %>% 
-  filter(!row_number() %in% c(22,28,30)) %>%
+dates <- data.frame(dates = seq(ymd("2019-03-27"), ymd("2019-09-08"), by = 1)) %>% 
+  filter(!row_number() %in% c(22,28,30,37,39,44,46,47,51,54,55,57,63,65,66,68:72,74:84,86,88:94,96,98,
+                              103:113,115:118,121:127,129:140,142,144:151,153,155:156,160:161,163:164)) %>%
   pull()
 
 

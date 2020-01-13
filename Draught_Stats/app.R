@@ -9,8 +9,9 @@ library(DT)
 # library(rsconnect)
 # rsconnect::deployApp('C://Users/johnp/Documents/GitHub/Baseball/Draught_Stats')
 
-dates_2019 <- data.frame(dates = seq(ymd("2019-03-27"), ymd("2019-04-30"), by = 1)) %>% 
-  filter(!row_number() %in% c(22,28,30)) %>%
+dates_2019 <- data.frame(dates = seq(ymd("2019-03-27"), ymd("2019-09-08"), by = 1)) %>% 
+  filter(!row_number() %in% c(22,28,30,37,39,44,46,47,51,54,55,57,63,65,66,68:72,74:84,86,88:94,96,98,
+                              103:113,115:118,121:127,129:140,142,144:151,153,155:156,160:161,163:164)) %>%
   pull()
 
 stats_2019 <- readRDS(paste0("stats_", last(dates_2019), ".rds"))
@@ -41,13 +42,13 @@ ui <- navbarPage(
                       fluidPage(
                         fluidRow(
                           column(3,
-                                 dateRangeInput("daterange", "Zoom In:",
+                                 dateRangeInput("daterange_2019", "Zoom In:",
                                                 start  = "2019-03-28",
                                                 end    = max(dates_2019),
                                                 min    = "2019-03-27",
                                                 max    = max(dates_2019))),
                           column(2,
-                                 selectInput('stat', 'Choose Stat', choices = c("BA", "OBP", "HR", "RBI", "R", "SB", "ERA",
+                                 selectInput('stat_2019', 'Choose Stat', choices = c("BA", "OBP", "HR", "RBI", "R", "SB", "ERA",
                                                                                 "WHIP", "K", "QS", "HD", "S"), selected = "BA")),
                           mainPanel(width = 12,
                                     plotlyOutput("stats_plot_2019")
@@ -62,7 +63,7 @@ ui <- navbarPage(
                       fluidPage(
                         fluidRow(
                           column(3,
-                                 dateRangeInput("daterange2", "Zoom In:",
+                                 dateRangeInput("daterange_2019_2", "Zoom In:",
                                                 start  = "2019-03-28",
                                                 end    = max(dates_2019),
                                                 min    = "2019-03-27",
@@ -205,10 +206,10 @@ server <- function(input, output) {
    output$stats_plot_2019 <- renderPlotly({
      
      pdata <- stats_2019 %>% 
-       filter(date >= input$daterange[1] & date <= input$daterange[2]) %>% 
-       filter(stat == input$stat)
+       filter(date >= input$daterange_2019[1] & date <= input$daterange_2019[2]) %>% 
+       filter(stat == input$stat_2019)
      
-     title = input$stat
+     title = input$stat_2019
      
      
      
@@ -237,7 +238,7 @@ server <- function(input, output) {
    output$weighted_pts_2019 <- renderDataTable({
      
      weighted_pts <- standings_2019 %>%
-       filter(date >= input$daterange2[1] & date <= input$daterange2[2]) %>% 
+       filter(date >= input$daterange_2019_2[1] & date <= input$daterange_2019_2[2]) %>% 
        group_by(Team) %>%
        summarise(avg_pts = round(mean(Total), 1)) %>% 
        ungroup() %>% 
@@ -249,7 +250,7 @@ server <- function(input, output) {
    output$weighted_rankings_2019 <- renderDataTable({
      
      weighted_rank <- standings_2019 %>%
-       filter(date >= input$daterange2[1] & date <= input$daterange2[2]) %>% 
+       filter(date >= input$daterange_2019_2[1] & date <= input$daterange_2019_2[2]) %>% 
        mutate(Rank = as.integer(as.character(Rank))) %>% 
        group_by(Team) %>%
        summarise(avg_rank = round(mean(Rank), 1)) %>% 
