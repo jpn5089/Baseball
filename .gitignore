@@ -12,3 +12,5 @@ packrat/lib*/
 .Rproj.user/**
 packrat/
 .Rproj.user
+*.dcf
+*.gif
